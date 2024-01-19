@@ -506,7 +506,7 @@
     "value": "Най смотрит на меня отчаянными глазами. Я думаю, это должен быть незабываемый день для нее"
   },
   "beginH_93": {
-    "value": "【/[value6@Word]+/[BeginHPressure]】 (/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]+\/[BeginHPressure]\u3011 (\/[value6Now@Word]: \/[pressure@No])"
   },
   "begin_59": {
     "value": "Най стоит в углу и дрожит. Ее тревожные глаза иногда оглядываются по сторонам."
@@ -714,7 +714,7 @@
   },
   "floor_3": {
     "name": "Я",
-    "value": "Кашляющий"
+    "value": "*Кашель*"
   },
   "floor_4": {
     "value": "Эта проклятая погода и влажность не позволяют мне заснуть."
@@ -740,7 +740,7 @@
   },
   "floor_12": {
     "name": "Я",
-    "value": "Испуганный. Глядя вниз."
+    "value": "Я посмотрел вниз."
   },
   "floor_13": {
     "value": "Най в тонкой одежде испуганно стоит на четвереньках с куском ткани в руке."
@@ -767,7 +767,7 @@
     "value": "Почему бы не использовать швабру?"
   },
   "floor_20": {
-    "value": "Я сожалею, что сказал это. Уборка не входит в обязанности Най."
+    "value": "Я пожалел, что сказал это. Уборка не входила в обязанности Най."
   },
   "floor_21": {
     "name": "Я",
@@ -775,21 +775,21 @@
   },
   "floor_22": {
     "name": "Най",
-    "value": "Я все могу. Только мне твои приказы."
+    "value": "Я все могу. Только прикажите."
   },
   "floor_23": {
     "name": "Най",
-    "value": "Я постараюсь."
+    "value": "Я подумаю."
   },
   "floor_24": {
     "value": "【Каково ваше решение сейчас?】"
   },
   "floorY_1": {
     "name": "Я",
-    "value": "Я приседаю, чтобы нежно погладить Ная по голове."
+    "value": "Я присел, чтобы нежно погладить Най по голове."
   },
   "floorY_2": {
-    "value": "Это работа слуг и вам не нужно ее делать."
+    "value": "Это работа слуг и ей не нужно ее делать."
   },
   "floorY_3": {
     "value": "Най смотрит на меня с недоумением."
@@ -799,7 +799,7 @@
     "value": "Но...."
   },
   "floorY_5": {
-    "value": "Поддерживает несколько прядей волос, падающих ей на ухо."
+    "value": "Я поддерживаю несколько прядей волос, падающих ей на ухо."
   },
   "floorY_6": {
     "name": "Я",
@@ -814,7 +814,7 @@
   },
   "floorY_9": {
     "name": "Най",
-    "value": "Сэр... вам не обязательно так со мной обращаться... Я очень послушный."
+    "value": "Сэр... вам не обязательно так со мной обращаться... Я очень послушная."
   },
   "floorY_10": {
     "value": "Най показывает выражение неверия."
@@ -824,36 +824,36 @@
   },
   "floorY_12": {
     "name": "Най",
-    "value": "Если я что-то сделал не так, пожалуйста, просто укажите мне на это."
+    "value": "Если я что-то сделала не так, пожалуйста, просто укажите мне на это."
   },
   "floorY_13": {
     "value": "Она отдергивает руку и ложится на землю"
   },
   "floorY_14": {
     "name": "Я",
-    "value": "Я имею в виду...неважно...ты встанешь первым"
+    "value": "Я имею в виду... неважно... ты должна встать"
   },
   "floorY_15": {
     "name": "Най",
-    "value": "Сэр, пожалуйста, не дайте мне встать. Пожалуйста, не наказывайте меня. Я закончу это очень скоро."
+    "value": "Сэр, пожалуйста, не позволяйте мне встать. Пожалуйста, не наказывайте меня. Я закончу уборку очень скоро."
   },
   "floorY_16": {
     "name": "Я",
     "value": "Ах... что ты испытывал раньше?"
   },
   "floorY_17": {
-    "value": "Совершенно не похоже на....человека"
+    "value": "Она совершенно не похожа на....человека"
   },
   "floorY_18": {
     "name": "Я",
-    "value": "Вздыхая"
+    "value": "Вздох"
   },
   "floorY_19": {
-    "value": "Молча вздохнув. Поэтому я могу делать это только медленно"
+    "value": "Молча вздохнув, я медленно снял пальто"
   },
   "floorY_20": {
     "name": "Я",
-    "value": "Най, ты надела это пальто. Это так холодно"
+    "value": "Най, ты должна надеть пальто. Здесь холодно"
   },
   "floorY_21": {
     "name": "Я",
@@ -870,15 +870,15 @@
   },
   "floorY_25": {
     "name": "Я",
-    "value": "Не забывайте ложиться спать рано"
+    "value": "Не забывай ложиться спать рано"
   },
   "floorY_26": {
     "name": "Я",
-    "value": "Не зацикливайтесь только на уборке. Не утомляй себя"
+    "value": "Не зацикливайся только на уборке. Не утомляй себя"
   },
   "floorY_27": {
     "name": "Най",
-    "value": "эх..."
+    "value": "да..."
   },
   "floorY_28": {
     "value": "Голос Наи очень легкий"
@@ -1109,25 +1109,25 @@
     "value": "Бам...Бах...Бах...Сегодня утром в дверь так сильно постучали."
   },
   "cake_2": {
-    "value": "Откройте дверь, чтобы увидеть незнакомую женщину."
+    "value": "Открыв дверь, я увидел незнакомую женщину."
   },
   "cake_3": {
     "value": "Очень сердито стучится в дверь."
   },
   "cake_4": {
-    "name": "женщина",
+    "name": "Женщина",
     "value": "Привет"
   },
   "cake_5": {
-    "name": "женщина",
-    "value": "Посмотрите, что сделал этот маленький воришка. Она украла мой торт."
+    "name": "Женщина",
+    "value": "Посмотрите, что сделала эта маленькая воришка. Она украла мой торт."
   },
   "cake_6": {
     "value": "Най стоит сзади, опустив голову, и на ее рту видны следы крема."
   },
   "cake_7": {
-    "name": "женщина",
-    "value": "Мой муж заказывает этот торт на юбилей. Ты только что все испортил."
+    "name": "Женщина",
+    "value": "Мой муж заказывает этот торт на юбилей. Она все испортила."
   },
   "cake_8": {
     "value": "【Как ты накажешь Ная за кражу торта?】"
@@ -1137,8 +1137,8 @@
     "value": "Извините, я компенсирую вам двойную цену. Пожалуйста, простите эту невежественную девушку."
   },
   "cakeY_2": {
-    "name": "женщина",
-    "value": "Считаю деньги и ухожу."
+    "name": "Женщина",
+    "value": "Посчитаю деньги и уйду."
   },
   "cakeY_3": {
     "value": "Стараюсь изо всех сил сдерживать гнев"
@@ -1184,10 +1184,10 @@
     "value": "Нет, это не имеет значения. Я отвезу тебя купить его."
   },
   "cakeY_15": {
-    "value": "【/[value7@Word]+/[cakeLove]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[cakeLove]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "cakeY_16": {
-    "value": "【/[money@Word]-/[cakeYMoney@No]】 (/[moneyNow@Word]: /[money@No])"
+    "value": "\u3010\/[money@Word]-\/[cakeYMoney@No]\u3011 (\/[moneyNow@Word]: \/[money@No])"
   },
   "cakeN_1": {
     "name": "Я",
@@ -1226,10 +1226,10 @@
     "value": "Быстро беру деньги и высокомерно поднимаю глаза."
   },
   "cakeN_11": {
-    "value": "【/[money@Word]-/[cakeNMoney@No]】 (/[moneyNow@Word]: /[money@No])"
+    "value": "\u3010\/[money@Word]-\/[cakeNMoney@No]\u3011 (\/[moneyNow@Word]: \/[money@No])"
   },
   "cakeN_12": {
-    "value": "【/[value6@Word]+/[cakePressure]】 (/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]+\/[cakePressure]\u3011 (\/[value6Now@Word]: \/[pressure@No])"
   },
   "0": [],
   "teachCurse_1": {
@@ -1477,7 +1477,7 @@
     "value": "Как будто что-то другое"
   },
   "teachCurseY_48": {
-    "value": "【/[value7@Word]+/[teachCurseLove]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[teachCurseLove]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "teachCurseY_49": [],
   "teachCurseN_1": {
@@ -1562,7 +1562,7 @@
     "value": "Двигаясь вперед, я постепенно буду обучать эту девушку, которая принадлежит только мне."
   },
   "teachCurseN_24": {
-    "value": "【/[value6@Word]+/[teachCursePressure]】 (/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]+\/[teachCursePressure]\u3011 (\/[value6Now@Word]: \/[pressure@No])"
   },
   "fight_1": {
     "name": "Сосед",
@@ -1711,7 +1711,7 @@
     "value": "Я твердо киваю головой, держа девушку за руку"
   },
   "fightY_34": {
-    "value": "【/[value7@Word]+/[fightLove]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[fightLove]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "fightN_1": {
     "value": "Проводив гостей, я сердито попросил Ная зайти."
@@ -1750,7 +1750,7 @@
     "value": "С этими словами я выхожу из гостиной."
   },
   "fightN_11": {
-    "value": "【/[value6@Word]+/[fightPressure]】 (/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]+\/[fightPressure]\u3011 (\/[value6Now@Word]: \/[pressure@No])"
   },
   "street1_1": {
     "value": "Это чудесные выходные. Погода очень хорошая. Мы с Най сидим дома и нам нечего делать."
@@ -1839,7 +1839,7 @@
     "value": "【Функция тура включена】"
   },
   "street1N_14": {
-    "value": "【/[value6@Word]+/[street1Pressure]】 (/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]+\/[street1Pressure]\u3011 (\/[value6Now@Word]: \/[pressure@No])"
   },
   "street1Y_1": {
     "value": "Голова Най опущена очень низко, как будто этим она может защитить слабую Най."
@@ -1940,7 +1940,7 @@
     "value": "Най кивает головой, похоже, понимая, что я говорю."
   },
   "street1Y_28": {
-    "value": "【/[value7@Word]+/[street1Love]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[street1Love]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "street1Y_29": {
     "value": "【Функция тура включена】"
@@ -2015,7 +2015,7 @@
     "value": "Если вы купите его для меня, я приготовлю для вас сюрприз в подарок, сэр."
   },
   "clothes2Need_20": {
-    "value": "Совет: пожалуйста, нажмите кнопку переодевания, чтобы купить платье. Если вам не удалось его купить, повторите 【/[play1@Word]】 еще несколько раз."
+    "value": "Совет: пожалуйста, нажмите кнопку переодевания, чтобы купить платье. Если вам не удалось его купить, повторите \u3010\/[play1@Word]\u3010\/ еще несколько раз."
   },
   "street2_1": {
     "name": "Я",
@@ -2200,10 +2200,10 @@
     "value": "В будущем ты тоже будешь счастлив, Най."
   },
   "street2Y_46": {
-    "value": "【/[money@Word]-/[clothes2Money@No]】 (/[moneyNow@Word]: /[money@No])"
+    "value": "\u3010\/[money@Word]-\/[clothes2Money@No]\u3011 (\/[moneyNow@Word]: \/[money@No])"
   },
   "street2Y_47": {
-    "value": "【/[value7@Word]+/[street2Love]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[street2Love]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "street2N_1": {
     "name": "Най",
@@ -2531,7 +2531,7 @@
     "value": "Най невинно кивнула головой. Спрятала голову в моих объятиях, и дыхание постепенно стабилизировалось."
   },
   "streetHY_78": {
-    "value": "【/[value7@Word]+/[street3Love]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[street3Love]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "streetHN_1": {
     "name": "Я",
@@ -2580,7 +2580,7 @@
     "value": "Эта девушка....как она все больше не желает общаться с людьми?"
   },
   "streetHN_14": {
-    "value": "【/[value6@Word]+/[street3Pressure]】 (/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]+\/[street3Pressure]\u3011 (\/[value6Now@Word]: \/[pressure@No])"
   },
   "washH_1": {
     "value": "Задуваемое холодным ветром окно издает какой-то шум"
@@ -3002,10 +3002,10 @@
     "value": "(Хорошее чувство тепла... это семья?)"
   },
   "washHY_97": {
-    "value": "【/[value7@Word]+/[washHLove]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[washHLove]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "washHY_98": {
-    "value": "【/[value8@Word]+/[washHPromiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[washHPromiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "washHN_1": {
     "value": "Я смотрю на упрямую и хрупкую девушку и вздыхаю."
@@ -3018,7 +3018,7 @@
     "value": "Я отворачиваюсь и ухожу."
   },
   "washHN_4": {
-    "value": "【/[value7@Word]-/[washHLove]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]-\/[washHLove]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "birthkH_1": {
     "value": "Най здесь уже некоторое время и очень мне помог."
@@ -3223,10 +3223,10 @@
     "value": "Я научу Най быть более совершенным в будущем."
   },
   "birthHY2_57": {
-    "value": "【/[value8@Word]+/[washHPromiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[washHPromiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "birthHY2_58": {
-    "value": "【/[value7@Word]+/[birthHLove]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[birthHLove]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "birthHN_1": {
     "value": "Я подарил Наю изящную куклу-медведя. Говорят, это бутик, сделанный уже вышедшим на пенсию мастером фабрики, и выглядит он хорошо."
@@ -3304,7 +3304,7 @@
     "value": "Я держу девочку на руках и нежно глажу ее по голове и спине."
   },
   "birthHN_22": {
-    "value": "【/[value7@Word]+/[birthHLove]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[birthHLove]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "libraryH_1": {
     "value": "Уже очень поздно, и все, кто читает в библиотеке, уже ушли."
@@ -3613,7 +3613,7 @@
     "value": "Мужчина похлопывает Ная по задницам, покрытым шрамами. Он одевается и уходит."
   },
   "libraryHY_66": {
-    "value": "【/[value6@Word]+/[libraryHPressure]】 (/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]+\/[libraryHPressure]\u3011 (\/[value6Now@Word]: \/[pressure@No])"
   },
   "hotelH_1": {
     "name": "Най",
@@ -3934,10 +3934,10 @@
     "value": "После того, как силы восстановились, Най почувствовала, что немного поправилась"
   },
   "hotelHY_75": {
-    "value": "【/[money@Word]+/[hotelHMoney@No]】 (/[moneyNow@Word]: /[money@No])"
+    "value": "\u3010\/[money@Word]+\/[hotelHMoney@No]\u3011 (\/[moneyNow@Word]: \/[money@No])"
   },
   "hotelHY_76": {
-    "value": "【/[value8@Word]+/[hotelHPromiscuous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[hotelHPromiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "hotelHN_1": {
     "name": "Гость",
@@ -3963,7 +3963,7 @@
     "value": "Наи вынужден компенсировать это крупной суммой денег"
   },
   "hotelHN_8": {
-    "value": "【/[money@Word]-/[hotelHNMoney@No]】 (/[moneyNow@Word]: /[money@No])"
+    "value": "\u3010\/[money@Word]-\/[hotelHNMoney@No]\u3011 (\/[moneyNow@Word]: \/[money@No])"
   },
   "streetArtH_1": {
     "value": "Най держит микрофон и эмоционально поет свои любимые песни."
@@ -4294,7 +4294,7 @@
     "value": "【Money+/[streetArtHMoney@No]】 (/[moneyNow@Word]: /[money@No])"
   },
   "streetArtHY_80": {
-    "value": "【/[value8@Word]+/[streetArtHPromiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[streetArtHPromiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "streetArtHN_1": {
     "name": "Най",
@@ -5245,7 +5245,7 @@
     "value": "Я искренне надеюсь, что сегодня вечером эта девочка сможет получить то тепло, которое она запомнит на всю жизнь."
   },
   "sleepCgY_39": {
-    "value": "【/[value7@Word]+/[sleepCgLove]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[sleepCgLove]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "sleepCgN_1": {
     "value": "Сначала я намереваюсь подойти поближе и ткнуть ей в лицо..."
@@ -5661,7 +5661,7 @@
     "value": "Най в этом плане такая милая"
   },
   "meHFuck1_61": {
-    "value": "【/[value6@Word]+/[meHFuckHPressure]】 (/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]+\/[meHFuckHPressure]\u3011 (\/[value6Now@Word]: \/[pressure@No])"
   },
   "meHFuck2_1": {
     "value": "Я беру Най и бросаю ее на кровать."
@@ -5908,7 +5908,7 @@
     "value": "Най чувствует только пустоту в голове."
   },
   "meHFuck2_74": {
-    "value": "【/[value6@Word]+/[meHFuckHPressure]】 (/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]+\/[meHFuckHPressure]\u3011 (\/[value6Now@Word]: \/[pressure@No])"
   },
   "meHFuck3_1": {
     "value": "Я внезапно хватаю Най за шею и толкаю ее на землю."
@@ -6114,7 +6114,7 @@
     "value": "В будущем Най тоже должна сотрудничать со мной таким образом."
   },
   "meHFuck3_61": {
-    "value": "【/[value6@Word]+/[meHFuckHPressure]】 (/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]+\/[meHFuckHPressure]\u3011 (\/[value6Now@Word]: \/[pressure@No])"
   },
   "meHclothes4_1": {
     "value": "Я сплю в комнате ночью"
@@ -6317,10 +6317,10 @@
     "value": "Я тоже"
   },
   "meHclothes4_62": {
-    "value": "【/[value7@Word]+/[meHclothesFuckLove]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[meHclothesFuckLove]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "meHclothes4_63": {
-    "value": "【/[value8@Word]+/[meHclothesFuckPromiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[meHclothesFuckPromiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "meHclothes7_1": {
     "value": "Най поднимает бедра"
@@ -6597,10 +6597,10 @@
     "value": "Нана сейчас выглядит так красиво"
   },
   "meHclothes7_81": {
-    "value": "【/[value7@Word]+/[meHclothesFuckLove]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[meHclothesFuckLove]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "meHclothes7_82": {
-    "value": "【/[value8@Word]+/[meHclothesFuckPromiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[meHclothesFuckPromiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "meHclothes3_1": {
     "value": "Я поднимаю одно бедро Най. Розовую и нежную маленькую киску можно увидеть повсюду"
@@ -6741,10 +6741,10 @@
     "value": "Грязная сперма выбрасывается при вытаскивании мясной палочки"
   },
   "meHclothes3_45": {
-    "value": "【/[value7@Word]+/[meHclothesFuckLove]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[meHclothesFuckLove]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "meHclothes3_46": {
-    "value": "【/[value8@Word]+/[meHclothesFuckPromiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[meHclothesFuckPromiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "meHclothes2_1": {
     "value": "Най показывает свои сиськи и щипает мою мясную палочку своей мягкой грудью"
@@ -6854,10 +6854,10 @@
     "value": "Когда ты меня разочаровывал?"
   },
   "meHclothes2_34": {
-    "value": "【/[value7@Word]+/[meHclothesFuckLove]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[meHclothesFuckLove]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "meHclothes2_35": {
-    "value": "【/[value8@Word]+/[meHclothesFuckPromiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[meHclothesFuckPromiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "meHclothes6_1": {
     "value": "Най очень стесняется смотреть на мою огромную мясную палку"
@@ -6996,10 +6996,10 @@
     "value": "Э-э... хорошо... очень вкусно..."
   },
   "meHclothes6_43": {
-    "value": "【/[value7@Word]+/[meHclothesFuckLove]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[meHclothesFuckLove]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "meHclothes6_44": {
-    "value": "【/[value8@Word]+/[meHclothesFuckPromiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[meHclothesFuckPromiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "meHclothes5_1": {
     "value": "Най лежит у стены, и я приподнимаю подол ее юбки."
@@ -7176,10 +7176,10 @@
     "value": "Сэр……"
   },
   "meHclothes5_53": {
-    "value": "【/[value7@Word]+/[meHclothesFuckLove]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[meHclothesFuckLove]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "meHclothes5_54": {
-    "value": "【/[value8@Word]+/[meHclothesFuckPromiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[meHclothesFuckPromiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "meHclothes1_1": {
     "value": "Най обнажена и лежит на земле."
@@ -7352,10 +7352,10 @@
     "value": "Сэр……"
   },
   "meHclothes1_51": {
-    "value": "【/[value7@Word]+/[meHclothesFuckLove]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[meHclothesFuckLove]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "meHclothes1_52": {
-    "value": "【/[value8@Word]+/[meHclothesFuckPromiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[meHclothesFuckPromiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "openW1_1": {
     "value": "Най сообщает мне, что хочет работать в моей отрасли. После раунда размышлений"
@@ -8292,7 +8292,7 @@
     "value": "Най недоумевает, каков настоящий смысл смеха и слов куратора."
   },
   "libraryEvent11_17": {
-    "value": "【/[value7@Word]+/[libraryEvent1Love1]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[libraryEvent1Love1]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "libraryEvent12_1": {
     "name": "Най",
@@ -8706,7 +8706,7 @@
     "value": "Обе девочки счастливы, и их певческие навыки еще больше улучшились."
   },
   "singEvent11_7": {
-    "value": "【/[value3@Word]+/[singEvent1Sing]】 (/[value3Now@Word]: /[sing@No])"
+    "value": "\u3010\/[value3@Word]+\/[singEvent1Sing]\u3011 (\/[value3Now@Word]: \/[sing@No])"
   },
   "singEvent12_1": {
     "name": "Най",
@@ -8770,7 +8770,7 @@
     "value": "(Что было, то прошло. Теперь у меня есть семья, которая меня любит.... Мне лучше немного взбодриться~)"
   },
   "singEvent12_18": {
-    "value": "【/[value6@Word]-/[singEvent1Pressure]】(/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]-\/[singEvent1Pressure]\u3011(\/[value6Now@Word]: \/[pressure@No])"
   },
   "singEvent2_1": {
     "value": "Сегодня то время, когда Най выходит на улицы, чтобы петь, чтобы заработать деньги."
@@ -8877,7 +8877,7 @@
     "value": "Несмотря на это, это моя визитная карточка, и если однажды вы передумаете, вы можете связаться со мной по телефону, указанному на карточке."
   },
   "singEvent21_13": {
-    "value": "【/[value7@Word]+2】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+2\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "singEvent21_14": {
     "value": "【Новая работа: пение в баре】"
@@ -9044,7 +9044,7 @@
     "value": "Ей остается только молча вытереть слезы, и никто из гостей не заметит ее ненормальности."
   },
   "hotelEvent21_9": {
-    "value": "【/[value6@Word]+/[hotel2Pressure]】(/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]+\/[hotel2Pressure]\u3011(\/[value6Now@Word]: \/[pressure@No])"
   },
   "hotelEvent22_1": {
     "value": "Глядя на счастье этой семьи из трех человек, Най не могла не думать о своем нынешнем опекуне."
@@ -9087,7 +9087,7 @@
     "value": "Сказав это, Най продолжает серьезно работать в отеле."
   },
   "hotelEvent22_12": {
-    "value": "【/[value7@Word]+/[hotel2Love]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[hotel2Love]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "hotelEvent1_1": {
     "value": "Прошло много времени с тех пор, как Най начала свою трудовую деятельность в отеле."
@@ -9168,7 +9168,7 @@
     "value": "В любом случае, я буду усердно работать и стараться изо всех сил."
   },
   "hotelEvent11_8": {
-    "value": "【/[value6@Word]+/[Hotel1Pressure]】 (/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]+\/[Hotel1Pressure]\u3011 (\/[value6Now@Word]: \/[pressure@No])"
   },
   "hotelEvent12_1": {
     "name": "Най",
@@ -9209,7 +9209,7 @@
     "value": "Вот это рост, Най~"
   },
   "hotelEvent12_11": {
-    "value": "【/[value6@Word]-/[Hotel1Pressure]】(/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]-\/[Hotel1Pressure]\u3011(\/[value6Now@Word]: \/[pressure@No])"
   },
   "hotelEvent13_1": {
     "name": "Най",
@@ -9259,7 +9259,7 @@
     "value": "Хорошо! Я сделаю это, Босс."
   },
   "hotelEvent13_13": {
-    "value": "【/[value2@Word]+/[Hotel1Talk】 (/[value2Now@Word]: /[talk@No])"
+    "value": "\u3010\/[value2@Word]+\/[Hotel1Talk\u3011 (\/[value2Now@Word]: \/[talk@No])"
   },
   "teachEvent1_1": {
     "value": "Сегодня после окончания урока учитель просит Най зайти в офис."
@@ -9366,7 +9366,7 @@
     "value": "Ну, тогда я уйду первым. Увидимся, учитель."
   },
   "teachEvent11_12": {
-    "value": "【/[value6@Word]-/[teach1Pressure]】 (/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]-\/[teach1Pressure]\u3011 (\/[value6Now@Word]: \/[pressure@No])"
   },
   "teachEvent12_1": {
     "name": "Най",
@@ -9400,7 +9400,7 @@
     "value": "(Интересно, что сэр сейчас делает...)"
   },
   "teachEvent12_9": {
-    "value": "【/[value6@Word]+/[teach1Pressure]】 (/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]+\/[teach1Pressure]\u3011 (\/[value6Now@Word]: \/[pressure@No])"
   },
   "teachEvent2_1": {
     "value": "Най недавно преследует ненавистный человек, который учится в старшем классе школы Най."
@@ -9530,7 +9530,7 @@
     "value": "Старшеклассник смотрит на исчезающую спину Ная, и в его глазах вспыхивает пугающий блеск."
   },
   "teachEvent23_10": {
-    "value": "【/[value6@Word]+/[teach2Pressure]】 (/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]+\/[teach2Pressure]\u3011 (\/[value6Now@Word]: \/[pressure@No])"
   },
   "teachEvent3_1": {
     "value": "Най уже некоторое время ходит в класс, но до сих пор не может влиться в группу."
@@ -9695,7 +9695,7 @@
     "value": "Да!"
   },
   "teachEvent31_24": {
-    "value": "【/[value3@Word]+/[teach3Number]】 (/[value3Now@Word]: /[sing@No])"
+    "value": "\u3010\/[value3@Word]+\/[teach3Number]\u3011 (\/[value3Now@Word]: \/[sing@No])"
   },
   "teachEvent32_1": {
     "name": "Най",
@@ -9776,7 +9776,7 @@
     "value": "Тогда давайте подождем и посмотрим~"
   },
   "teachEvent32_21": {
-    "value": "【/[value5@Word]+/[teach3Number]】 (/[value5Now@Word]: /[dance@No])"
+    "value": "\u3010\/[value5@Word]+\/[teach3Number]\u3011 (\/[value5Now@Word]: \/[dance@No])"
   },
   "teachEvent33_1": {
     "name": "Най",
@@ -9860,7 +9860,7 @@
     "value": "Конечно, с вашей поддержкой я буду более мотивирован."
   },
   "teachEvent33_22": {
-    "value": "【/[value1@Word]+/[teach3Number]】 (/[value1Now@Word]: /[knowledge@No])"
+    "value": "\u3010\/[value1@Word]+\/[teach3Number]\u3011 (\/[value1Now@Word]: \/[knowledge@No])"
   },
   "teachEvent34_1": {
     "name": "Най",
@@ -9932,7 +9932,7 @@
     "value": "Давай, Най!"
   },
   "teachEvent34_19": {
-    "value": "【/[value4@Word]+/[teach3Number]】 (/[value4Now@Word]: /[etiquette@No])"
+    "value": "\u3010\/[value4@Word]+\/[teach3Number]\u3011 (\/[value4Now@Word]: \/[etiquette@No])"
   },
   "teachEvent35_1": {
     "name": "Най",
@@ -10004,7 +10004,7 @@
     "value": "Давай, Най!"
   },
   "teachEvent35_19": {
-    "value": "【/[value2@Word]+/[teach3Number]】 (/[value2Now@Word]: /[talk@No])"
+    "value": "\u3010\/[value2@Word]+\/[teach3Number]\u3011 (\/[value2Now@Word]: \/[talk@No])"
   },
   "teachEvent36_1": {
     "name": "Най",
@@ -10106,7 +10106,7 @@
     "value": "Давай ~ Най!"
   },
   "teachEvent36_26": {
-    "value": "【/[value7@Word]+/[teach3Number]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[teach3Number]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "teachH_1": {
     "value": "Сегодня, когда урок окончен, настала очередь Наи заняться уборкой."
@@ -10485,7 +10485,7 @@
     "value": "Лицо Ная демонстрирует выражение полного опустошения, как на похотливой картине."
   },
   "teachHY_66": {
-    "value": "【/[value8@Word]+/[teachHPromiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[teachHPromiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "servantEvent1_1": {
     "value": "Най долгое время работал на эту богатую аристократическую семью."
@@ -10705,7 +10705,7 @@
     "value": "Ты обязательно встретишь этого человека~"
   },
   "servantEvent11_21": {
-    "value": "【/[value7@Word]+/[servant1Love1]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[servant1Love1]\u3011\n(\/[value7Now@Word]: \/[love@No])"
   },
   "servantEvent12_1": {
     "name": "Най",
@@ -10806,7 +10806,7 @@
     "value": "……Хорошо."
   },
   "servantEvent12_26": {
-    "value": "【/[value7@Word]+/[servant1Love2]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[servant1Love2]\u3011 \n(\/[value7Now@Word]: \/[love@No])\n"
   },
   "sickBE_1": {
     "value": "Вечером я планирую поговорить с Най."
@@ -11255,10 +11255,10 @@
     "value": "Сперма устремляется в матку и течет по мясной палочке, запертой в маленьких отверстиях."
   },
   "danceH1Y_51": {
-    "value": "【/[value5@Word]+/[danceH1Value]】 (/[value5Now@Word]: /[dance@No])"
+    "value": "\u3010\/[value5@Word]+\/[danceH1Value]\u3011 (\/[value5Now@Word]: \/[dance@No])"
   },
   "danceH1Y_52": {
-    "value": "【/[value8@Word]+/[danceH1Promiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[danceH1Promiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "danceH1N_1": {
     "value": "Най думает о предложении менеджера"
@@ -11604,10 +11604,10 @@
     "value": "Най, ты действительно оправдал наши ожидания, ха-ха-ха..."
   },
   "danceH2Y_83": {
-    "value": "【/[money@Word]+/[danceH2Money]】 (/[moneyNow@Word]: /[money@No])"
+    "value": "\u3010\/[money@Word]+\/[danceH2Money]\u3011 (\/[moneyNow@Word]: \/[money@No])"
   },
   "danceH2Y_84": {
-    "value": "【/[value8@Word]+/[danceH2Promiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[danceH2Promiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "danceH2N_1": {
     "value": "Най вырывается из рук менеджера"
@@ -11868,10 +11868,10 @@
     "value": "Ну и дела..Най такой членосос!"
   },
   "bunnyH1Y_55": {
-    "value": "【/[money@Word]+/[bunnyH1Money]】 (/[moneyNow@Word]: /[money@No])"
+    "value": "\u3010\/[money@Word]+\/[bunnyH1Money]\u3011 (\/[moneyNow@Word]: \/[money@No])"
   },
   "bunnyH1Y_56": {
-    "value": "【/[value8@Word]+/[bunnyH1Promiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[bunnyH1Promiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "bunnyH1N_1": {
     "value": "Най чувствует себя оскорбленным"
@@ -12157,7 +12157,7 @@
     "value": "Эм... ха..."
   },
   "bunnyH2Y_67": {
-    "value": "【/[value8@Word]+/[bunnyH2Promiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[bunnyH2Promiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "bunnyH2N_1": {
     "value": "Фанат вежливо смотрит на Ная"
@@ -12341,10 +12341,10 @@
     "value": "Какая шлюха!"
   },
   "smH1Y_37": {
-    "value": "【/[money@Word]+/[smH1Money]】(/[moneyNow@Word]: /[money@No])"
+    "value": "\u3010\/[money@Word]+\/[smH1Money]\u3011(\/[moneyNow@Word]: \/[money@No])"
   },
   "smH1Y_38": {
-    "value": "【/[value8@Word]+/[smH1Promiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[smH1Promiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "smH1N_1": {
     "value": "Най яростно отталкивает гостя"
@@ -12608,10 +12608,10 @@
     "value": "Ее разум полностью занят удовольствием, которое постоянно вырывается наружу."
   },
   "smH2Y_64": {
-    "value": "【/[money@Word]+/[smH2Money]】 (/[moneyNow@Word]: /[money@No])"
+    "value": "\u3010\/[money@Word]+\/[smH2Money]\u3011 (\/[moneyNow@Word]: \/[money@No])"
   },
   "smH2Y_65": {
-    "value": "【/[value8@Word]+/[smH2Promiscous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[smH2Promiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "smH2N_1": {
     "name": "Най",
@@ -14059,9 +14059,15 @@
   "w7_money": {
     "value": "/[money@Word] + /[salary@No]"
   },
+  "play1_clotheEvent": [],
+  "play1_1": [],
+  "play1_2": [],
+  "play1": [],
+  "play1_go": [],
   "play1_begin": {
     "value": "c"
   },
+  "play1_event": [],
   "play1_c1": {
     "value": "c"
   },
@@ -14071,9 +14077,16 @@
   "play1_fail": {
     "value": "Шопинг с Най на площади... скучный день!"
   },
+  "play1_end": [],
+  "play2_clotheEvent": [],
+  "play2_1": [],
+  "play2_2": [],
+  "play2": [],
+  "play2_go": [],
   "play2_begin": {
     "value": "с"
   },
+  "play2_event": [],
   "play2_c1": {
     "value": "с"
   },
@@ -14083,9 +14096,16 @@
   "play2_fail": {
     "value": "Скучный день"
   },
+  "play2_end": [],
+  "play3_clotheEvent": [],
+  "play3_1": [],
+  "play3_2": [],
+  "play3": [],
+  "play3_go": [],
   "play3_begin": {
     "value": "с"
   },
+  "play3_event": [],
   "play3_c1": {
     "value": "с"
   },
@@ -14095,9 +14115,14 @@
   "play3_fail": {
     "value": "Скучный день"
   },
+  "play3_end": [],
+  "learn1_1": [],
+  "learn1": [],
+  "learn1_go": [],
   "learn1_begin": {
     "value": "с"
   },
+  "learn1_event": [],
   "learn1_c1": {
     "value": "с"
   },
@@ -14107,9 +14132,14 @@
   "learn1_fail": {
     "value": "Обучение не удалось!"
   },
+  "learn1_end": [],
+  "learn2_1": [],
+  "learn2": [],
+  "learn2_go": [],
   "learn2_begin": {
     "value": "с"
   },
+  "learn2_event": [],
   "learn2_c1": {
     "value": "с"
   },
@@ -14119,9 +14149,14 @@
   "learn2_fail": {
     "value": "Обучение не удалось!"
   },
+  "learn2_end": [],
+  "learn3_1": [],
+  "learn3": [],
+  "learn3_go": [],
   "learn3_begin": {
     "value": "с"
   },
+  "learn3_event": [],
   "learn3_c1": {
     "value": "с"
   },
@@ -14131,9 +14166,14 @@
   "learn3_fail": {
     "value": "Обучение не удалось!"
   },
+  "learn3_end": [],
+  "learn4_1": [],
+  "learn4": [],
+  "learn4_go": [],
   "learn4_begin": {
     "value": "с"
   },
+  "learn4_event": [],
   "learn4_c1": {
     "value": "с"
   },
@@ -14143,12 +14183,20 @@
   "learn4_fail": {
     "value": "Обучение не удалось!"
   },
+  "learn4_end": [],
+  "learn5_1": [],
+  "learn5": [],
+  "learn5_go": [],
+  "learn5_begin": [],
+  "learn5_event": [],
+  "learn5_c1": [],
   "learn5_success": {
     "value": "Обучение успешное"
   },
   "learn5_fail": {
     "value": "Обучение не удалось!"
   },
+  "learn5_end": [],
   "lake1_1": {
     "value": "Я дышу свежим воздухом с Най в районе кристального озера на окраине."
   },
@@ -14387,7 +14435,7 @@
     "value": "Я спокойно держу Най на руках и глажу ее по волосам."
   },
   "lake1Y_38": {
-    "value": "【/[value7@Word]+/[lake1Love]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[lake1Love]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "lake2_1": {
     "value": "После разговора по душам с Най, Най, кажется, уже не так боится воды."
@@ -14615,7 +14663,7 @@
     "value": "Лицо Най краснеет, и она начинает наслаждаться этим странным чувством."
   },
   "lake2Y1_29": {
-    "value": "【/[value7@Word]+/[lake2Love]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[lake2Love]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "lake2Y2_1": {
     "name": "Я",
@@ -14655,7 +14703,7 @@
     "value": "Вы мне так нравитесь, сэр!"
   },
   "lake2Y2_11": {
-    "value": "【/[value7@Word]+/[lake2Love]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[lake2Love]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "lake3_1": {
     "value": "Мы с Най уже в третий раз приезжаем на Кристальное озеро."
@@ -14949,10 +14997,10 @@
     "value": "Ха... Это так хорошо... Сэр мне нравится больше всего...."
   },
   "lake3H_66": {
-    "value": "【/[value8@Word]+/[lackHPromiscuous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[lackHPromiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "lake3H_67": {
-    "value": "【/[value7@Word]+/[lake3Love]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[lake3Love]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "lake3N_1": {
     "name": "Я",
@@ -15119,7 +15167,7 @@
     "value": "Най, я сделаю тебя счастливой."
   },
   "mountain1_33": {
-    "value": "【/[value7@Word]+/[mountain1Love]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[mountain1Love]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "mountain2_1": {
     "value": "Сегодня, после того как я подготовлю различные диссертации, я беру Най на снежную гору."
@@ -15304,7 +15352,7 @@
     "value": "ну тогда очень жду"
   },
   "mountain2_53": {
-    "value": "【/[value7@Word]+/[mountain2Love]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[mountain2Love]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "mountainH_1": {
     "value": "Мы с Най вместе поднимаемся на вершину снежной горы."
@@ -15515,10 +15563,10 @@
     "value": "Мое сердце удовлетворено исключительно"
   },
   "mountainHY_39": {
-    "value": "【/[value8@Word]+/[mountainHPromiscuous]】 (/[value8Now@Word]: /[promiscuous@No])"
+    "value": "\u3010\/[value8@Word]+\/[mountainHPromiscuous]\u3011 (\/[value8Now@Word]: \/[promiscuous@No])"
   },
   "mountainHY_40": {
-    "value": "【/[value7@Word]+/[mountain3Love]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[mountain3Love]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "mountainHN_1": {
     "name": "Я",
@@ -17340,11 +17388,11 @@
     "value": "Кажется, ты не хочешь сказать мне правду"
   },
   "talkEvent1_11": {
-    "value": "【/[value7@Word]+/[talkLove1]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[talkLove1]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "talkEvent2_1": {
     "name": "Я",
-    "value": "Тебя зовут Най? Это действительно сладкое имя."
+    "value": "Тебя зовут Най? Это красивое имя."
   },
   "talkEvent2_2": {
     "name": "Най",
@@ -17356,7 +17404,7 @@
   },
   "talkEvent2_4": {
     "name": "Най",
-    "value": "....Тебе... не обязательно спрашивать моего разрешения на такие вещи... как эта..."
+    "value": "....Тебе... не обязательно спрашивать моего разрешения для таких вещей... как эта..."
   },
   "talkEvent2_5": {
     "name": "Я",
@@ -17364,21 +17412,21 @@
   },
   "talkEvent2_6": {
     "name": "Най",
-    "value": "....Человек научил меня... что мне нужно только подчиняться приказам..Он сказал...мусор не должен иметь собственных идей..."
+    "value": "....Один человек научил меня... что мне нужно только подчиняться приказам..Он сказал...мусор не должен иметь собственных идей..."
   },
   "talkEvent2_7": {
     "name": "Я",
     "value": "(Похоже, ее учили каким-то очень странным понятиям… какой бедный ребенок.)"
   },
   "talkEvent2_8": {
-    "value": "【/[value7@Word]+/[talkLove1]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[talkLove1]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "talkEvent3_1": {
     "name": "Я",
-    "value": "Най, можешь мне сказать, почему ты называешь себя мусором?"
+    "value": "Най, можешь мне рассказать, почему ты называешь себя мусором?"
   },
   "talkEvent3_2": {
-    "value": "Най смотрит на меня озадаченно, моргая своими невинными большими глазами. Она как будто говорит, что мне странно задавать такие вопросы."
+    "value": "Най смотрит на меня озадаченно, моргая своими невинными большими глазами. Она как будто говорит, что странно задавать такие вопросы."
   },
   "talkEvent3_3": {
     "name": "Най",
@@ -17386,7 +17434,7 @@
   },
   "talkEvent3_4": {
     "name": "Я",
-    "value": "Это неправильно. Всех нужно уважать, и вы вовсе не мусор. Для меня очень важно то, что вы думаете."
+    "value": "Это неправильно. Ты вовсе не мусор. Для меня очень важно то, чтобы ты это знала."
   },
   "talkEvent3_5": {
     "name": "Най",
@@ -17394,14 +17442,14 @@
   },
   "talkEvent3_6": {
     "name": "Я",
-    "value": "Нет, совсем нет. Ты милая девушка, а не какая-то ерунда. Вы человек."
+    "value": "Нет, совсем нет. Ты милая девушка, а не какая-то мусор. Ты человек."
   },
   "talkEvent3_7": {
     "name": "Най",
     "value": "...человек?"
   },
   "talkEvent3_8": {
-    "value": "Она с любопытством разговаривает сама с собой и несколько раз читает слово «человек», но так и не может его уловить."
+    "value": "Она с любопытством разговаривает сама с собой и несколько раз произносит слово «человек», но так и не может его уловить."
   },
   "talkEvent3_9": {
     "value": "Она опускает голову и сворачивается калачиком, чтобы избежать зрительного контакта со мной."
@@ -17411,7 +17459,7 @@
     "value": "(Она девушка, которой есть что рассказать. Мне нужно изменить ее странные мысли!)"
   },
   "talkEvent3_11": {
-    "value": "【/[value7@Word]+/[talkLove1]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[talkLove1]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "noFoodEvent_1": {
     "value": "Сэр... я так голоден"
@@ -17420,7 +17468,7 @@
     "value": "Дома нет денег... Я уже день ничего не ел"
   },
   "noFoodEvent_3": {
-    "value": "【/[value6@Word]+100】 (/[value6Now@Word]: /[pressure@No])"
+    "value": "\u3010\/[value6@Word]+100\u3011 (\/[value6Now@Word]: \/[pressure@No])"
   },
   "dayEndEvent1_1": {
     "name": "Я",
@@ -17431,8 +17479,9 @@
   },
   "dayBeginEvent1_1": {
     "name": "Най",
-    "value": "До свидания, сэр, чем бы вы хотели заняться сегодня?"
+    "value": "Доброе утро, сэр, чем бы вы хотели заняться сегодня?"
   },
+  "dayBeginEvent1_2": [],
   "talkEvent4_1": {
     "name": "Я",
     "value": "Най, почему ты вчера вечером вставал делать работу по дому?"
@@ -17476,7 +17525,7 @@
     "value": "(Внутри этого должно быть что-то спрятано. Мне лучше не продолжать об этом спрашивать, чтобы она не стала еще более эмоционально нестабильной."
   },
   "talkEvent4_12": {
-    "value": "【/[value7@Word]+/[talkLove1]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[talkLove1]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "talkEvent5_1": {
     "name": "Я",
@@ -17513,11 +17562,11 @@
     "value": "(Лицо Най все еще выглядит испуганным, как будто он не верит моим словам)"
   },
   "talkEvent5_10": {
-    "value": "【/[value7@Word]+/[talkLove1]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[talkLove1]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "talkEvent6_1": {
     "name": "Я",
-    "value": "Как выглядела ваша жизнь в прошлом? Не могли бы вы рассказать мне об этом?"
+    "value": "Какой была твоя жизнь в прошлом? Не могла бы ты рассказать мне об этом?"
   },
   "talkEvent6_2": {
     "name": "Най",
@@ -17525,7 +17574,7 @@
   },
   "talkEvent6_3": {
     "name": "Я",
-    "value": "(Какого черта это счастье?!)"
+    "value": "(Какого черта это ты называешь это повезло?!)"
   },
   "talkEvent6_4": {
     "name": "Я",
@@ -17545,7 +17594,7 @@
   },
   "talkEvent6_8": {
     "name": "Я",
-    "value": "Най, Бога в этом мире не существует. Вы хозяин своего мира."
+    "value": "Най, Бога в твоём мире не существует. Ты сама хозяин своего мира."
   },
   "talkEvent6_9": {
     "value": "Най смотрит на меня. Черно-белые глаза полны недоумения."
@@ -17556,10 +17605,10 @@
   },
   "talkEvent6_11": {
     "name": "Я",
-    "value": "Всё в порядке, успокойся. Я дам вам это понять."
+    "value": "Всё в порядке, успокойся. Я дам тебе это понять."
   },
   "talkEvent6_12": {
-    "value": "【/[value7@Word]+/[talkLove1]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[talkLove1]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "talkEvent7_1": {
     "name": "Я",
@@ -17596,7 +17645,7 @@
     "value": "(Глядя на реакцию Ная, я понимаю, что это, должно быть, связано с тем «Богом», о котором говорил Най."
   },
   "talkEvent7_10": {
-    "value": "【/[value7@Word]+/[talkLove1]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[talkLove1]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "talkEvent8_1": {
     "name": "Я",
@@ -17633,7 +17682,7 @@
     "value": "(Каким будет наказание, о котором говорил Най?)"
   },
   "talkEvent8_10": {
-    "value": "【/[value7@Word]+/[talkLove1]】 (/[value7Now@Word]: /[love@No])"
+    "value": "\u3010\/[value7@Word]+\/[talkLove1]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
   "talkEvent9_1": {
     "name": "Я",
@@ -17689,7 +17738,7 @@
   },
   "talkEvent10_4": {
     "name": "Най",
-    "value": "...Итак..Извини... что позволяю тебе потратить немного денег на меня..."
+    "value": "...Извини... что из-за меня пришлось потратить деньги..."
   },
   "talkEvent10_5": {
     "name": "Я",
@@ -17701,7 +17750,7 @@
   },
   "talkEvent10_7": {
     "name": "Я",
-    "value": "Компенсация не имеет большого значения. Но... мне любопытно, почему ты пытался украсть торт?"
+    "value": "Компенсация не имеет большого значения. Но... мне любопытно, почему ты пыталась украсть торт?"
   },
   "talkEvent10_8": {
     "name": "Най",
@@ -17709,7 +17758,7 @@
   },
   "talkEvent10_9": {
     "name": "Я",
-    "value": "Но воровать нехорошо. Вы не можете этого сделать просто потому, что хотите это съесть и не спрашиваете разрешения у других. Это ----воровство."
+    "value": "Но воровать нехорошо. Вы не можете этого сделать просто потому, что хотите это съесть и не спрашиваете разрешения у других. Это воровство."
   },
   "talkEvent10_10": {
     "name": "Най",
@@ -17872,7 +17921,7 @@
   },
   "talkEvent14_3": {
     "name": "Я",
-    "value": "Если у вас есть, пожалуйста, скажите мне. Я могу сделать их для тебя."
+    "value": "Если у тебя есть, пожелания, скажите мне. Я могу приготовить это для тебя."
   },
   "talkEvent14_4": {
     "value": "На лице Ная выражение удивления, как будто он сообщает мне какую-то ошеломляющую абсурдную новость."
@@ -18541,10 +18590,6 @@
   "talkEvent28_7": {
     "value": "\u00a0\u3010\/[value7@Word]+\/[talkLove1]\u3011 (\/[value7Now@Word]: \/[love@No])"
   },
-  "talkEvent30_1": {
-    "name": "Я",
-    "value": "Надеешься ли ты иметь братьев и сестер?"
-  },
   "talkEvent29_1": [],
   "talkEvent29_2": [],
   "talkEvent29_3": [],
@@ -18552,6 +18597,10 @@
   "talkEvent29_5": [],
   "talkEvent29_6": [],
   "talkEvent29_7": [],
+  "talkEvent30_1": {
+    "name": "Я",
+    "value": "Надеешься ли ты иметь братьев и сестер?"
+  },
   "talkEvent30_2": {
     "name": "Най",
     "value": "Да"
