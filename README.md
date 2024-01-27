@@ -7,6 +7,7 @@
 - `textEn.json`
 - `wordEn.json`
 - `optionEn.json`
+
 Изменяя, например `textEn.json` на `textJp.json`, соответственно можно оставить английский перевод. Такая процедура должна быть проделана для всех 3 файлов: `textEn.json`, `wordEn.json`, `optionEn.json`.
 
 ## Использование перевода
